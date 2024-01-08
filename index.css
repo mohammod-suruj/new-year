@@ -158,3 +158,21 @@ body{
 
 
 /* place section start */
+
+.place{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    margin: auto;
+    background-color:rgba(255, 0, 0, 1);
+}
+
+.place-1{
+    width: 550px;
+    text-align: center;
+    margin: auto;
+}
+
+.p-text{
+
+}
