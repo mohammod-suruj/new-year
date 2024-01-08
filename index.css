@@ -354,4 +354,109 @@ body{
 /* discount section end */
 
 
+/* protfolio section start */
+
+
+.portfolio{
+    width: 1320px;
+    margin: auto;
+
+}
+
+.portfolio-1{
+   width: 896px;
+}
+
+.port-text-1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.port-text-2{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.port-text-3{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+}
+
+.port-img{
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 50px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 18px;
+}
+
+.portfolio-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+    
+}
+
+/* protfolio section end */
+
+
+/* newsletter section start */
+
+
+
+.newsletter{
+    width: 1320px;
+    margin: auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+
+}
+
+.news-text-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;     
+}
+
+.news-text-2{
+    text-align: center;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.news-text-3{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    padding: 0px 220px 0px 220px;
+}
+
+input[type=email]{
+    width: 400px;
+    height: 65px;
+    flex-shrink: 0;
+    text-align: center;
+}
 
