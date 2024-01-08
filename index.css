@@ -267,3 +267,91 @@ body{
     font-weight: 400;
     line-height: 32px; 
 }
+
+
+/* coming soon section end */
+
+
+/* holidays section start */
+
+
+.holiday{
+    width: 800px;
+    margin: auto;
+    background-color: #FFF;
+}
+
+.holi-text-1{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.holi-text-2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+}
+.holi-text-3{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 160% */
+}
+
+/* holidays section start */
+
+
+
+
+/* discount section start */
+
+
+.main{
+   background-image: url("./B9A1-New-Year-New-Mission/resources/Rectangle\ 2.png");
+   background-repeat: no-repeat;
+   background-position: bottom;
+   width: 1320px;
+   margin: auto;
+
+}
+
+.discount-fast{
+    display: flex;
+    flex-shrink: 0;
+    justify-content: space-between;
+   
+}
+.discount-3{
+        background-image: url("./B9A1-New-Year-New-Mission/resources/Rectangle\ 1.png");
+        background-repeat: no-repeat;
+        background-position: right;
+        width: 429px;
+        height: 433px;
+        flex-shrink: 0;
+        position: relative;
+        margin-top: 5px;
+}
+
+.img-dis{
+    right: 280px;
+    top: 70px;
+    position: absolute;
+}
+
+
+/* discount section end */
+
+
+
