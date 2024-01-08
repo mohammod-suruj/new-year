@@ -164,7 +164,9 @@ body{
     height: 482px;
     flex-shrink: 0;
     margin: auto;
-    background-color:rgba(255, 0, 0, 1);
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    display: flex;
+    align-items: center;
 }
 
 .place-1{
@@ -174,5 +176,93 @@ body{
 }
 
 .p-text{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    text-transform: capitalize;
+}
+.change-btn{
+    background-color: red;
+}
 
+
+/* place section end */
+
+
+
+/* coming soon section start */
+
+
+.coming-soon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    margin: auto;
+}
+
+.coming-soon-1{
+    width: 393px;
+}
+
+.coming-soon-2{
+    width: 345px;
+    height: 345px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+
+.coming-soon-3{
+    width: 276px;
+}
+
+.c-s-text-1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.c-s-text-2{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.c-s-text-3{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+}
+
+.c-s-text-4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.c-s-text-5{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
 }
