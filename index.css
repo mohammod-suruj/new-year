@@ -216,6 +216,7 @@ body{
     flex-shrink: 0;
     border-radius: 463px;
     border: 15px solid #F00;
+    padding: 25px;
 }
 
 .coming-soon-3{
