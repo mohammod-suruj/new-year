@@ -1,6 +1,7 @@
 body{
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
+    margin: 0;
 }
 
 /* banner section start */
@@ -115,6 +116,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 110px;
 }
 .wellcome-1{
     width: 690px;
@@ -173,6 +175,7 @@ body{
     background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     display: flex;
     align-items: center;
+    padding-bottom: 100px;
 }
 
 .place-1{
@@ -210,6 +213,7 @@ body{
     height: 482px;
     flex-shrink: 0;
     margin: auto;
+    margin-bottom: 100px;
 }
 
 .coming-soon-1{
@@ -285,6 +289,7 @@ body{
     width: 800px;
     margin: auto;
     background-color: #FFF;
+    margin-bottom: 60px;
 }
 
 .holi-text-1{
@@ -330,6 +335,7 @@ body{
    background-position: bottom;
    width: 1320px;
    margin: auto;
+   margin-bottom: 110px;
 
 }
 
@@ -429,6 +435,8 @@ body{
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
     padding-bottom:50px ;
+    margin-top: 110px;
+    margin-bottom: 110px;
 
 }
 
