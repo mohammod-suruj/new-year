@@ -561,3 +561,10 @@ input[type=submit]{
     padding-bottom: 50px;
 
 }
+.fotter-1-1{
+        margin: auto;
+        width: 1320px;
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+}
